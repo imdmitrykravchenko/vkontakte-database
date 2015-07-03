@@ -1,0 +1,24 @@
+{
+  "name": "vkontakte-database",
+  "version": "0.1.2",
+  "description": "vkontakte database api lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imdmitrykravchenko/vkontakte-database"
+  },
+  "keywords": [
+    "vkontakte",
+    "api"
+  ],
+  "author": "Dmitry Kravchenko <imdmitrykravchenko@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.58.0",
+    "extend": "~2.0.1",
+    "clone": "~1.0.2"
+  }
+}

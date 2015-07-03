@@ -1,6 +1,6 @@
 {
   "name": "vkontakte-database",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "vkontakte database api lib",
   "main": "index.js",
   "scripts": {
